@@ -1,4 +1,4 @@
-module github.com/Monibuca/plugin-gateway/v3
+module github.com/Enoooch/plugin-gateway/v3
 
 go 1.16
 
